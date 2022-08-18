@@ -242,7 +242,7 @@
     <comment>This is the tour welcome image alt text</comment>
   </data>
   <data name="UnrecognizedInput" xml:space="preserve">
-    <value>Ich kann die eingehende Nachricht leider nicht verarbeiten. Sie können jedoch eine Tour machen, um mehr über meine Funktionalität zu erfahren.</value>
+    <value>(TEST) Ich kann die eingehende Nachricht leider nicht verarbeiten. Sie können jedoch eine Tour machen, um mehr über meine Funktionalität zu erfahren.</value>
     <comment>The text for the unrecognized input scenario</comment>
   </data>
   <data name="WelcomeTourTitle" xml:space="preserve">
